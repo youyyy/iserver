@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    index
+</head>
+    <body>
+        <p>xiaoyou</p>
+        <dev>
+            姓名:<h th:text="${name}"></h>
+            <br/>
+            级别:<h th:text="${level}"></h>
+        </dev>
+
+    </body>
+</html>
