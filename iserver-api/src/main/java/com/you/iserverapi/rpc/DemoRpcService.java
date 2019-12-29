@@ -10,4 +10,6 @@ import com.you.iserverapi.ResponseResult;
  **/
 public interface DemoRpcService {
     ResponseResult fun1();
+    ResponseResult getUser();
+
 }

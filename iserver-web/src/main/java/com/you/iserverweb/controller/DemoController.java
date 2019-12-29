@@ -20,4 +20,8 @@ public class DemoController {
     public ResponseResult fun1(){
         return demoService.fun1();
     }
+    @GetMapping("/getuser")
+    public ResponseResult getuser(){
+        return demoService.getUser();
+    }
 }

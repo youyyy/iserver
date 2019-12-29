@@ -22,4 +22,9 @@ public class DemoServiceImpl implements DemoService {
     public ResponseResult fun1() {
         return demoRpcService.fun1();
     }
+
+    @Override
+    public ResponseResult getUser() {
+        return demoRpcService.getUser();
+    }
 }

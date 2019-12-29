@@ -31,3 +31,17 @@ G
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 {
 Kiserver-web/src/main/java/com/you/iserverweb/controller/PageController.java,6/0/60ddfdd0d8088cb769e9b1d2c10f3a4d8cd40560
+u
+Eiserver-web/src/main/java/com/you/iserverweb/service/DemoService.java,c/0/c09441a5d4d86192c249e872fb2ad674edb2e35d
+{
+Kiserver-web/src/main/java/com/you/iserverweb/controller/DemoController.java,0/2/0206cbf8cf908c94b7e946e9c7b61c892db70434
+t
+Diserver-api/src/main/java/com/you/iserverapi/rpc/DemoRpcService.java,c/a/ca20dd0fe3f66f7f4f7c8beb3f35f8cb3200d30b
+€
+Piserver-service/src/main/java/com/you/iserverservice/rpc/DemoRpcServiceImpl.java,4/d/4dd605ca97cfa2984468a93c36e66ba62d4841ad
+~
+Niserver-web/src/main/java/com/you/iserverweb/service/impl/DemoServiceImpl.java,7/2/72f615db94db4c2b97beafdf3be87de42bedf025
+u
+Eiserver-service/src/main/java/com/you/iserverservice/entity/User.java,3/4/3408bf88c027b12b9a793f75628b88eac1989890
+x
+Hiserver-service/src/main/java/com/you/iserverservice/dao/UserMapper.java,1/f/1f4bf1d9c483717e46ef872ccb889671b1959c02
