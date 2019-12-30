@@ -15,8 +15,7 @@ import org.springframework.context.annotation.ImportResource;
 public class IserverServiceApplication {
 
     public static void main(String[] args) {
-       ApplicationContext context = SpringApplication.run(IserverServiceApplication.class, args);
-       System.out.println(context.getBean(DemoRpcService.class));
+       SpringApplication.run(IserverServiceApplication.class, args);
     }
 
 }

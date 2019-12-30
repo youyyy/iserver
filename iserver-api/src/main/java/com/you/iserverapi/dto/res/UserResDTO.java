@@ -1,7 +1,14 @@
-package com.you.iserverservice.entity;
+package com.you.iserverapi.dto.res;
 
+import java.io.Serializable;
 
-public class User {
+/**
+ * @program: iserver
+ * @description: description
+ * @author: youyi
+ * @create: 2019-12-26 10:08
+ **/
+public class UserResDTO implements Serializable {
     private Long id;
 
     private String account;
@@ -41,4 +48,5 @@ public class User {
     public void setPassword(String password) {
         this.password = password == null ? null : password.trim();
     }
+
 }

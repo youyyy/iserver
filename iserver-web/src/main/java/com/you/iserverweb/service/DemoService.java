@@ -1,6 +1,7 @@
 package com.you.iserverweb.service;
 
 import com.you.iserverapi.ResponseResult;
+import com.you.iserverapi.dto.req.UserReqDTO;
 
 /**
  * @program: iserver
@@ -12,5 +13,7 @@ public interface DemoService {
     ResponseResult fun1();
 
     ResponseResult getUser();
+
+    ResponseResult addUser(UserReqDTO reqDTO);
 
 }

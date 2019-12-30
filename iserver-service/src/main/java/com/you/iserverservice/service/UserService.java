@@ -12,4 +12,6 @@ import java.util.List;
  **/
 public interface UserService {
     List<User> getList();
+    Integer addUser(User user);
+
 }

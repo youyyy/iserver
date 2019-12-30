@@ -1,6 +1,7 @@
 package com.you.iserverapi.rpc;
 
 import com.you.iserverapi.ResponseResult;
+import com.you.iserverapi.dto.req.UserReqDTO;
 
 /**
  * @program: iserver
@@ -11,5 +12,6 @@ import com.you.iserverapi.ResponseResult;
 public interface DemoRpcService {
     ResponseResult fun1();
     ResponseResult getUser();
+    ResponseResult adduser(UserReqDTO userReqDTO);
 
 }

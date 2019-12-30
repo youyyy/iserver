@@ -2,6 +2,7 @@ package com.you.iserverweb.service.impl;
 
 import com.alibaba.dubbo.config.annotation.Reference;
 import com.you.iserverapi.ResponseResult;
+import com.you.iserverapi.dto.req.UserReqDTO;
 import com.you.iserverapi.rpc.DemoRpcService;
 import com.you.iserverweb.service.DemoService;
 import org.springframework.stereotype.Service;
@@ -27,4 +28,11 @@ public class DemoServiceImpl implements DemoService {
     public ResponseResult getUser() {
         return demoRpcService.getUser();
     }
+
+    @Override
+    public ResponseResult addUser(UserReqDTO reqDTO) {
+        return demoRpcService.adduser(reqDTO);
+    }
+
+
 }
