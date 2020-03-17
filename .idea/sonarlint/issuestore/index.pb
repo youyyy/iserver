@@ -3,8 +3,6 @@ w
 Giserver-web/src/main/java/com/you/iserverweb/IserverWebApplication.java,4/9/49d7eb98c1b6faff50979d96c879efd7b3d676f9
 |
 Liserver-web/src/test/java/com/you/iserverweb/IserverWebApplicationTests.java,d/a/da4dad71a4364c4a0a1a42faf1b8209004849580
-w
-Giserver-api/src/main/java/com/you/iserverapi/dto/res/StudentResDTO.java,9/2/92012e4d118aacb295abaae810bc550030fe7163
 C
 iserver-api/pom.xml,a/6/a6a644b345ea4548d730f90e1500ebeb6853319a
 y
@@ -13,8 +11,6 @@ s
 Ciserver-api/src/main/java/com/you/iserverapi/exception/IAssert.java,3/f/3f2d70584afe22181d07a08e80f6f76bc6aa698f
 {
 Kiserver-api/src/main/java/com/you/iserverapi/exception/IParamException.java,1/1/1149f92fb3170f73354a0dc50b7ee385ccd0b5f7
-w
-Giserver-api/src/main/java/com/you/iserverapi/dto/req/StudentReqDTO.java,4/7/470e59d7cfd523e8bd0b0e34859910c0157a5ec9
 v
 Fiserver-api/src/main/java/com/you/iserverapi/exception/IException.java,2/e/2eaa923f7965d64136401cac63120559f4aa3385
 ˆ
