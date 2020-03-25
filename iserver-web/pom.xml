@@ -55,31 +55,13 @@
         <dependency>
             <groupId>com.you</groupId>
             <artifactId>iserver-api</artifactId>
-            <version>1.0.0</version>
-            <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>com.you</groupId>
-            <artifactId>iserver-api</artifactId>
+            <artifactId>iserver-util</artifactId>
         </dependency>
-        <dependency>
-            <groupId>com.you</groupId>
-            <artifactId>iserver-api</artifactId>
-            <version>1.0.0</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
-            <groupId>com.you</groupId>
-            <artifactId>iserver-api</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>com.you</groupId>
-            <artifactId>iserver-api</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>com.you</groupId>
-            <artifactId>iserver-api</artifactId>
-        </dependency>
+
+
     </dependencies>
 
     <build>

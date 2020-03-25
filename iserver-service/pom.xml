@@ -60,8 +60,9 @@
         </dependency>
         <dependency>
             <groupId>com.you</groupId>
-            <artifactId>iserver-api</artifactId>
+            <artifactId>iserver-util</artifactId>
         </dependency>
+
 
         <dependency>
             <groupId>com.alibaba</groupId>
